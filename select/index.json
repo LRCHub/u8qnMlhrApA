@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "半透明人間",
+  "base_artist": "back number",
+  "createdAt": "2026-02-21T04:12:58.031749Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "半透明人間",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_半透明人間_back_number.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "半透明人間",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/02_半透明人間_back_number.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "半透明人間",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/03_半透明人間_back_number.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "半透明人間 - Hantoumei Ningen",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/04_半透明人間_-_Hantoumei_Ningen_back_number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "半透明人間",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_半透明人間_back_number.txt"
+    }
+  ]
+}
